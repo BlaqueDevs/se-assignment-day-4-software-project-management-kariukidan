@@ -85,7 +85,7 @@ A Work Breakdown Structure (WBS) is a hierarchical breakdown of a project into s
 A WBS is useful in that it promotes effective resource allocation, progress tracking of the project, communication between project stakeholders, facilitates collaboration and also helps in task identification.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
- A detaiked project schedule provides a clear roadmap for the project, outlining tasks, timelines, dependencies, and resources.
+ A detailed project schedule provides a clear roadmap for the project, outlining tasks, timelines, dependencies, and resources.
 
 - Ensures effective time management
 - promotes decision making
@@ -95,11 +95,18 @@ A WBS is useful in that it promotes effective resource allocation, progress trac
 - Gantt are important for visualizing project schedules. the clear visual representation of timelines and schedules ensure parties are well aware of the timelines for the project, potential challenges are easily identified, resources can be allocated accordingly, the progress of the project can be tracked and helps all parties involved to plan the project effectively.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+    -inefficiency and delays, people wait a long time to receive typed proceedings leading to delayed justice and that is also used as an avenue for solicitation for bribes. backlog of cases.
+
+    -if this wait time is reduced, case backlogs will be reduced. avenues of corruption will reduce. parties will have their cases settled in a timely manner.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
 Clearly defining the problem can help the developer come up with a Focused Solution aimed at addressing the problem highlighted.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+    - creating a software to transcribe court sessions will ensure that there exists clear and readable records of cases in court. the software will also ensure that parties get typed proceedings in the shortest time possible as court sessions will be recorded and transcribed in real time. The handwriting of judicial officers can sometimes lead to loss of information and inaccuracies which the software will solve.
 ## 11. What are the main features or functionalities that make your software stand out?
+    - while other transcription softwares exists, this one will be different in that it will be tailored specifically to be used in court sessions to type out the speech as it happens in court. Potentially it will also be able to recognize and transcribe local languages.
 ## 12. What data is available regarding the market size and growth potential for your software?
+    _There are hundreds of courts in Kenya which would need to use this software and even more courts keep being opened over time. The need for the software will therefore rise steadily as it is adopted in the different courts.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+    -understanding the trends and advancements made by other transcribing software would help in the development of the app especially on how to capture local languages in Kenya and also to possibly have the software used in other sectors other than courts.
